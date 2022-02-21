@@ -36,5 +36,5 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
-[![Linkedin: Vanessa Lebrão Quintilhano](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vanessa-lebr%C3%A3o-quintilhano-aa0a4638/)
+[![Linkedin: Vanessa Lebrão Quintilhano](https://img.shields.io/badge/-Vanessa Lebrão-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vanessa-lebr%C3%A3o-quintilhano-aa0a4638/)
 
