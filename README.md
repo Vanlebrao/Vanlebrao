@@ -37,5 +37,4 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
 
 [![Linkedin: Vanessa Lebrão Quintilhano](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vanessa-lebr%C3%A3o-quintilhano-aa0a4638/)
-[![Gmail Badge](https://img.shields.io/badge/-vanlebrao@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Vanessa Lebrão)](mailto:vanlebrao@gmail.com)
-[![GitHub Van Lebrão]](https://github.com/Vanlebrao)
+
