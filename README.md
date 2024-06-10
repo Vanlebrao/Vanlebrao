@@ -2,7 +2,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **DevClub** no <a href="https://rodolfomori.com.br/">Code Club</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Java Script,React, Node.js, Tyscript**.
+- 🌱 &nbsp; Aprendendo mais sobre **Java Script,React, Node.js, Tyscript, banco de dados relacionais e não relacionais**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
