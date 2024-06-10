@@ -1,8 +1,8 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **CODECLUB** no <a href="https://rodolfomori.com.br/">Code Club</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Java Script e React**.
+- 🎓 &nbsp; Estudando **DevClub** no <a href="https://rodolfomori.com.br/">Code Club</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Java Script,React, Node.js, Tyscript**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
