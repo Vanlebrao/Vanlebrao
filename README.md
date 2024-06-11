@@ -1,42 +1,36 @@
-<h3> :woman: &nbsp;Sobre mim </h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **DevClub** no <a href="https://rodolfomori.com.br/">Dev Club</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Java Script,React, Node.js, Tyscript, banco de dados relacionais e não relacionais**.
+<p align="left"> 
+  Sou uma analista de <strong>desenvolvimento back-end</strong> apaixonada pela tecnologia e focada em resultados. Minha jornada começou no front-end, onde trabalhei em diversos projetos usando HTML, CSS, JavaScript e React. Algumas dessas experiências foram como freelancer, enquanto outras foram iniciativas pessoais.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+Como analista de qualidade (QA), mergulhei em desafios no desenvolvimento back-end e descobri minha verdadeira paixão. Comecei realizando testes integrados e automatizados das APIs da equipe e, hoje, tenho o privilégio de contribuir ativamente no desenvolvimento dessas APIs. 
 
-**Aplicações e Dados**
+No dia a dia, sou reconhecida pela excelência e pela dedicação aos projetos. Meus colegas frequentemente elogiam meu trabalho impecável, testemunhando meu compromisso com a qualidade e a eficiência.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![Node.js]([https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white))
+Meu objetivo é crescer profissionalmente no desenvolvimento back-end e contribuir para soluções inovadoras que impulsionem nosso sucesso.
+</p>
 
-**DevOps**
+<p align="left">
+  🦄 Linguagens: ** HTML, CSS, JavaScript,React, Node.js com Express, Typescript, MySQL, Banco de dados relacionais e não relacionais.**
+</p>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+<p align="left">
+  💼 Ferramentas: **MongoDB, AWS, Sequelize, Docker, Jira, Bitbucket, Git, VsCode, PyCharm,  .**
+</p>
 
-**Ferramentas de Desenvolvimento**
+<p align="left">
+  💌 Para me conhcer um pouco mais: ⤵️
+</p>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vanlebrao@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vanessalebraoquintilhano" alt="LinkedIn"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vanessa.lebrao" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vanlebrao" alt="Instagram"/></a>
+</p>
 
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
-
-<br/>
-
-<a href="https://github.com/Vanlebrao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanlebrao&theme=dracula&show_icons=true" />
-</a>
-
-<br/>
-
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3>
-
-[![Linkedin: Vanessa Lebrão Quintilhano](https://img.shields.io/badge/-Vanessa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/vanessa-lebr%C3%A3o-quintilhano-aa0a4638/)
-[![Gmail Badge](https://img.shields.io/badge/-vanlebrao@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:vanlebrao)
 
