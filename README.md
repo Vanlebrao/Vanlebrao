@@ -19,7 +19,7 @@ Meu objetivo é crescer profissionalmente no desenvolvimento back-end e contribu
 </p>
 
 <p align="left">
-  💌 Para me conhcer um pouco mais: ⤵️
+  💌 Para me conhecer um pouco mais: ⤵️
 </p>
 
 <p align="left">
